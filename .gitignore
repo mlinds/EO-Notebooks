@@ -1,3 +1,6 @@
+# can't commit all the pictuers to gh otherwise repo will be too big
+*.jpg 
+
 */.ipynb_checkpoints/*
 *checkpoint.ipynb
 
