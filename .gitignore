@@ -4,6 +4,8 @@
 */.ipynb_checkpoints/*
 *checkpoint.ipynb
 
+# no point in tracking binary pdfs
+*.pdf
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
@@ -23,3 +25,4 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternoteboo
+
